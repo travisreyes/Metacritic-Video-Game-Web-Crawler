@@ -3,7 +3,7 @@ from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup as soup
 
 #makes a csv file
-filename = "metacritic_complete_adventure_part_01.csv"
+filename = "metacritic.csv"
 f = open(filename, "w")
 
 headers = "game_title, genre, platforms, release_date, developers,metascore_rating\n"
