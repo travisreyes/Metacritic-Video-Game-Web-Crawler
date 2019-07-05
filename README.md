@@ -5,3 +5,5 @@ that contains video game information such as video game titles,
 genres, platforms, developers, release date, and metascore given to each game. 
 
 The file "metacritic_dataset.csv" is the data set produced from running the web crawler. 
+
+Note: All video game titles are mostly limited to only modern consoles (i.e PS4, XBOX ONE, SWITCH, etc.)
